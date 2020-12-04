@@ -8,4 +8,4 @@ The maven central dependency is here: https://mvnrepository.com/artifact/net.ima
 This here is the original discussion on stackoverflow with the hint to use ImageJ: https://stackoverflow.com/questions/24745147/java-resize-image-without-losing-quality
 And another post on the topic of converting between streams and BufferedImage: https://stackoverflow.com/questions/4251383/how-to-convert-bufferedimage-to-inputstream/21569243
 
-All that above has no guarantee to actually work and not cause some side effects. If you have any ideas on how to make the flow;  stream -> image magic -> stream, then please post here in issues :-)
+All that above has no guarantee to actually work and not cause some side effects. If you have any ideas on how to make better the flow;  stream -> image magic -> stream, then please post here in issues :-)
